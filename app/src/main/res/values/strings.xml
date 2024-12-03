@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YOLOv8 TfLite</string>
+    <string name="inference_time">%dms</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="upload_video">Upload Video</string>
+
+</resources>
